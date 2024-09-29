@@ -18,12 +18,13 @@
 
 > [!NOTE]
 **Being a Pro**:
-13. Make my mouse grip in my best comfortable situation; not using death grip, a little space between palm and wrist cuz of hand and fingers' breathing as well (impossible to fatigue)
+13. Make my mouse grip in my best comfortable situation; not using death grip
 14. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
-15. Ignoring the arm friction with arm sleeves and learn how to reseting the mouse position. Because the place of Examid lives, is very hot and humid and the arm moves very hard
-16. Using fingertip grip to select options, claw or palm grip for aim (Using all of them while gaming)
-17. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
-18. Aim goes like a Pro with moderating the tension
+15. Ignoring the arm friction with an arm sleeves. Because the place of Examid lives is very hot and humid and the arm moves very hardly
+16. Using aggressive claw grip cuz of hand and fingers' breathing as well (impossible to fatigue)
+17. Pinch my fingers to back of mouse like a phone tripad legs (fingers) and the base of tripad (palm)
+18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
+19. Aim goes like a Pro with moderating the tension
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
