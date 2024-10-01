@@ -24,7 +24,9 @@
 16. Using aggressive claw grip cuz of hand and fingers' breathing as well (impossible to fatigue)
 17. Pinch my fingers to back of mouse like a phone tripad legs (fingers) and the base of tripad (palm)
 18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
-19. Aim goes like a Pro with moderating the tension
+19. Aim goes like a pro with moderating the tension
+20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
+21. Congratulations, Examid is now going to be a Pro Player (not yet!)
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
