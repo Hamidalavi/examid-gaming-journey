@@ -25,7 +25,7 @@
 17. Pinch my fingers to back of mouse like a phone tripad legs (fingers) and the base of tripad (palm)
 18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
 19. Aim goes like a pro with moderating the tension
-20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
+20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise) by respecting the wrist with X-axis rotation
 21. Congratulations, Examid is now going to be a Pro Player (not yet!)
 
 > [!CAUTION]
