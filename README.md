@@ -26,7 +26,7 @@
 18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
 19. Aim goes like a pro with lowering the tension, touch fingers to mouse near the mousepad and wrist abit in air (like fight mode). With this situation, I can reset the mouse position easily
 20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
-21. Congratulations, Examid is now going to bpe a Pro Player (not yet!)
+21. Congratulations, Examid is now going to be a Pro Player (not yet!)
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
