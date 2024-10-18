@@ -26,7 +26,11 @@
 18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
 19. Aim goes like a pro with lowering the tension, touch fingers to mouse near the mousepad and wrist abit in air (like fight mode). With this situation, I can reset the mouse position easily
 20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
-21. Congratulations, Examid is now going to be a Pro Player (not yet!)
+21. Starts using dynamic claw grip, so there are three parts which I can explain this mixing grip:
+> A: First of all the mouse pointer (cursor) should be in the center
+>> B: Then my palm rests on the mouse for smoothness and precise tracking
+>>> C: I also do fingertip grip at the same time while my palm rests on the mouse, So you can call it "mix of fingertip and claw grip"
+22. Congratulations, Examid is now going to be a Pro Player (not yet!)
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
