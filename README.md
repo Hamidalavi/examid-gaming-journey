@@ -22,7 +22,7 @@
 14. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 15. Ignoring the arm friction with an arm sleeves. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 16. Using aggressive claw grip cuz of hand and fingers' breathing as well (impossible to fatigue)
-17. My fingertips are pinching from back of mouse (lifting the mouse) like a phone tripad legs (fingers) and the base of tripad (palm)
+17. My fingertips are very slightly pinching from back of mouse (abit lifting the mouse) like a phone tripad legs (fingers) and the base of tripad (palm). in this situation, even the fingers touch the mousepad, there is no more friction will added
 18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
 19. Aim goes like a pro with lowering the tension, touch fingers to mouse near the mousepad and wrist abit in air (like fight mode). With this situation, I can reset the mouse position easily
 20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
