@@ -37,7 +37,7 @@
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
-[![DonatCreditCard](https://img.shields.io/badge/Donate-CreditCard-blue.svg)](https://reymit.ir/examid6540?crypto)
+[![DonatCreditCard](https://img.shields.io/badge/Donate-CreditCard-blue.svg)](https://reymit.ir/examid6540?int)
 [![DonateCrypto](https://img.shields.io/badge/Donate-Crypto-orange.svg)](https://reymit.ir/examid6540?crypto)
 
 ## Social Media:
