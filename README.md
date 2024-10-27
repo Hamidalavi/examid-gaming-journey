@@ -44,6 +44,17 @@
 **Start as a Noob**:
 0. Bought just a PS5 controller (not console) in 11jan 2022
 1. Using four fingers for handling games and always saw my hand and fingers. Two thumb fingers for the L/R sticks, and the other two index fingers for buttons and triggers
+2. I always paid attention to the controller instead of the game
+3. Though how to use claw grip with four fingers and got lots of controls. It was very difficult at first and I was like a cripple. Then practice this grip in Far Cry 3 game exactly like my KBM journey
+4. Starts with six fingers and practice hard on this grip
+
+> [!NOTE]
+**Being a Pro**:
+5. Bought a Nacon Revolution 5 controller with four back paddles
+6. Using my all ten fingers for handling games. Yeah, it's very difficult and it feels impossible at first time
+7. Practice in very high sensitivity (20 in Call of Duty) to make movement better and faster
+8. Bought a controller freek and my aim has improved alot
+9. Since the Nacon Revolution 5 has a magnetic sticks, I tried to set the dead zone to zero for precise aiming and tracking
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
