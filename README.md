@@ -51,7 +51,7 @@
 > [!NOTE]
 **Being a Pro**:
 5. Bought a Nacon Revolution 5 controller with four back paddles
-6. Using my all ten fingers for handling games. Yeah, it's very difficult and it feels impossible at first time
+6. Using all of my ten fingers for handling games. Yeah, it's very difficult and it feels impossible at first time
 7. Practice in very high sensitivity (20 in Call of Duty) to make movement better and faster
 8. Bought a controller freek and my aim has improved alot
 9. Since the Nacon Revolution 5 has a magnetic sticks, I tried to set the dead zone to zero for precise aiming and tracking
