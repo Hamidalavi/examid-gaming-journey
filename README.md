@@ -35,6 +35,8 @@
 >>> C: For fast movement and reaction, pushing my fingers down. NOTE: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
 22. Congratulations, Examid is now going to be a Pro Player (not yet!)
 
+---
+
 > [!TIP]
 **Controller**
 
