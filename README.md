@@ -55,6 +55,7 @@
 7. Practice in very high sensitivity (20 in Call of Duty) to make movement better and faster
 8. Bought a controller freek and my aim has improved alot
 9. Since the Nacon Revolution 5 has a magnetic sticks, I tried to set the dead zone to zero for precise aiming and tracking
+10. Pinky and ring fingers are fully covered under the controller for best paddle clicking experience
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
