@@ -1,5 +1,8 @@
 # Examid's Noob to Pro Gaming Journey
 
+> [!TIP]
+**Mouse & Keyboard**
+
 > [!NOTE]
 **Start as a Noob**:
 0. Start with laptop in 2021
@@ -31,6 +34,14 @@
 >> B: My pinky, ring and thumb fingers are NOT positioned nearly parallel to the mousepad
 >>> C: For fast movement and reaction, pushing my fingers down. NOTE: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
 22. Congratulations, Examid is now going to be a Pro Player (not yet!)
+
+> [!TIP]
+**Controller**
+
+> [!NOTE]
+**Start as a Noob**:
+0. Bought just a PS5 controller (not console) in 11jan 2022
+1. Using four fingers for handling games and always saw my hand and fingers. Two thumb fingers for the L/R sticks, and the other two index fingers for buttons and triggers
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
