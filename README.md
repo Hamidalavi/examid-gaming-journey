@@ -61,6 +61,19 @@
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
 
+---
+
+> [!TIP]
+**PC Hardwares**
+0. Bought a normal laptop in **1nov 2015** with **1 core and 2 threads CPU**, then **1GB graphic drive**
+1. Upgraded the **Hard Disk Drive (HDD)** to **Solid State Drive (SSD)**. To do that, we removed the DVD writer hardware
+2. Bought a Gaming PC in **11jan 2022** with **Sharkoon TG4** case (see pc-specs repository to see full information)
+3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-17 14700K**
+4. My bad, the current motherboard **ASUS ROG B550-F Gaming WIFI** didn't support that CPU. I had to chnage it to **ASUS PRIME Z790-P WIFI**
+5. Another bad luck is the current Read Access Memory (RAM) which is **Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16** didn't support at **ASUS ROG B550-F Gaming WIFI** motherboard, that's an another reason which I changed motherboard. So, I bought **G.Skill Trident Z5 RGB 2x16GB 6000MHz CL36** instead. Because it's a DDR5 type and it supports the D5 motherboard socket
+6. I decided to upgrade my CPU cooler from **Thermaltake 1x Fan | Liquid** to **DeepCool LS720 Black**. This cooler doing great and reduced the temperature more than 2x time (75°c to 30°c)
+7. My bad luck is endless, because the **DeepCool LS720 Black** cooler did not fit in the **Sharkoon TG4** case and I had to buy **Deepcool CH510 Mesh Digital** case
+
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
 [![DonatCreditCard](https://img.shields.io/badge/Donate-CreditCard-blue.svg)](https://reymit.ir/examid6540?int)
