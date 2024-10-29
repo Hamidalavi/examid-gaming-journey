@@ -56,6 +56,7 @@
 8. Bought a controller freek and my aim has improved alot
 9. Since the Nacon Revolution 5 has a magnetic sticks, I tried to set the dead zone to zero for precise aiming and tracking
 10. Pinky and ring fingers are fully covered under the controller for best paddle clicking experience
+11. I control the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim. I want to get used to this situation, I think it's a good habit
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
