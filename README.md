@@ -33,7 +33,8 @@
 > A: Doing fingertip grip as a default, I mean there is a little space between mouse and palm
 >> B: My pinky, ring and thumb fingers are NOT positioned nearly parallel to the mousepad
 >>> C: For fast movement and reaction, pushing my fingers down. NOTE: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
-22. Congratulations, Examid is now going to be a Pro Player (not yet!)
+22. Bring the table higher (or chair lower), then I opened my armpits because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and without friction with the mouse, keyboard and even the controller
+23. Congratulations, Examid is now going to be a Pro Player with mouse and keyboard
 
 ---
 
@@ -56,7 +57,9 @@
 8. Bought a controller freek and my aim has improved alot
 9. Since the Nacon Revolution 5 has a magnetic sticks, I tried to set the dead zone to zero for precise aiming and tracking
 10. Pinky and ring fingers are fully covered under the controller for best paddle clicking experience
-11. I control the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim. I want to get used to this situation, I think it's a good habit
+11. Controlling the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim
+12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the top side of controller
+13. Congratulations, Examid is now going to be a Pro Player with controller
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
@@ -68,7 +71,7 @@
 0. Bought a normal laptop in **1nov 2015** with **1 core and 2 threads CPU**, then **1GB graphic drive**
 1. Upgraded the **Hard Disk Drive (HDD)** to **Solid State Drive (SSD)**. To do that, we removed the DVD writer hardware
 2. Bought a Gaming PC in **11jan 2022** with **Sharkoon TG4** case (see pc-specs repository to see full information)
-3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-i7 14700K**
+3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-i7 14700K**. We assembled the GPU, CPU, PSU, RAM and CPU cooler by ourselves
 4. My bad, the current motherboard **ASUS ROG B550-F Gaming WIFI** didn't support that CPU. I had to chnage it to **ASUS PRIME Z790-P WIFI**
 5. Another bad luck is the current Read Access Memory (RAM) which is **Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16** didn't support at **ASUS PRIME Z790-P WIFI** motherboard. So, I bought **G.Skill Trident Z5 RGB 2x16GB 6000MHz CL36** instead. Because its type is a DDR5 and it supports the D5 motherboard socket
 6. I decided to upgrade my CPU cooler from **Thermaltake 1x Fan | Liquid** to **DeepCool LS720 Black**. This cooler doing great and reduced the temperature more than 2x time (75°c to 30°c)
