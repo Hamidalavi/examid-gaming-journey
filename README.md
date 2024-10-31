@@ -31,10 +31,11 @@
 20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
 21. Starts using dynamic fingertip grip (ignoring number 17 and 20 with this grip), so there are three parts which I can explain this mixing grip:
 > A: Doing fingertip grip as a default, I mean there is a little space between mouse and palm
->> B: My pinky, ring and thumb fingers are NOT positioned nearly parallel to the mousepad
->>> C: For fast movement and reaction, pushing my fingers down. NOTE: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
-22. Bring the table higher (or chair lower), then I opened my armpits because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and without friction with the mouse, keyboard and even the controller
-23. Congratulations, Examid is now going to be a Pro Player with mouse and keyboard
+>> B: My pinky, ring and thumb fingers are NOT only positioned nearly parallel to the mousepad, they're dynamic in positioning
+>>> C: For fast movement and reaction, slightly pushing my fingers down (against the mouse's wall). NOTE: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
+22. Bring the table higher (or chair lower), then I opened my armpits because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
+23. Finally, I was aiming like I was in a hurry and wanted always doing fast flicks. But I'm wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
+24. Congratulations, Examid is now going to be a Pro Player at mouse and keyboard
 
 ---
 
