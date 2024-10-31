@@ -24,18 +24,15 @@
 13. Make my mouse grip in my best comfortable situation; not using death grip
 14. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 15. Ignoring the arm friction with an arm sleeves. Because the place of Examid lives is very hot and humid and the arm moves very hardly
-16. Using aggressive claw grip cuz of hand and fingers' breathing as well (impossible to fatigue)
-17. My fingertips are very slightly pinching from back of mouse (abit lifting the mouse) like a phone tripad legs (fingers) and the base of tripad (palm). in this situation, even the fingers touch the mousepad, there is no more friction will added
-18. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
-19. Aim goes like a pro with lowering the tension, touch fingers to mouse near the mousepad and wrist abit in air (like fight mode). With this situation, I can reset the mouse position easily
-20. When the thumb, pinky, and ring fingers are positioned nearly parallel to the table, the aim becomes exceptionally smooth and accurate (fluid and precise)
-21. Starts using dynamic fingertip grip (ignoring number 17 and 20 with this grip), so there are three parts which I can explain this mixing grip:
+16. Pre-Lock enemies with centering and not reseting the mouse when focusing on enemies
+17. Aim goes like a pro with lowering the tension, touch fingers to mouse near the mousepad and wrist abit in air. With this situation, I can reset the mouse position easily
+18. Starts using dynamic fingertip grip, so there are three parts which I can explain this mixing grip:
 > A: Doing fingertip grip as a default, I mean there is a little space between mouse and palm
 >> B: My pinky, ring and thumb fingers are NOT only positioned nearly parallel to the mousepad, they're dynamic in positioning
 >>> C: For fast movement and reaction, slightly pushing my fingers down (against the mouse's wall). NOTE: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
-22. Bring the table higher (or chair lower), then I opened my armpits because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-23. Finally, I was aiming like I was in a hurry and wanted always doing fast flicks. But I'm wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
-24. Congratulations, Examid is now going to be a Pro Player at mouse and keyboard
+19. I raised the height of the table (or I lowered the height of the seat), then I opened my armpits because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
+20. Finally, I was aiming like I was in a hurry and wanted always doing fast flicks. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
+21. Congratulations, Examid is now going to be a Pro Player at mouse and keyboard
 
 ---
 
