@@ -5,33 +5,33 @@
 
 > [!NOTE]
 **Start as a Noob**:
-0. Start with laptop in 2021
-1. Holding the wrist and arm in fixed place and rest fingers far from **WASD**/ and top numbers on keyboard to click **Shift** and **Ctrl** easily, but it's a wrong habit
+0. Start with laptop in **2021**
+1. Holding the **wrist** and **arm** in fixed place and rest fingers far from **WASD** and top numbers on keyboard to click **Shift** and **Ctrl** easily, but it's a wrong habit
 2. Using **W** with just a point finger then **ASD** with thumb finger
 3. Frames, ping, packet loss and response time didn't matter and was a casual player
-4. Though how to use **WASD** with three fingers and got lots of keyboard controls. In the beginning it was very difficult and I was like a cripple. After one week (Playing Far Cry 3), it has become my true habit. Because I wanted to start Live Stream
-5. Bought a Gaming PC in 11jan 2022
+4. Though how to use **WASD** with three fingers and got lots of keyboard controls. In the beginning it was very difficult and I was like a cripple. After one week (playing **Far Cry 3**), it has become my true habit. Because I wanted to start **Live Stream**
+5. Bought a Gaming PC in **11jan 2022**
 6. Frames and response time did matter and I wanted to be a pro instead of casual
-7. Seeing others' game setting and being a parrot (also see the others' chair and table position, keyboard and mouse grips)
-8. I decided to be myself with my situation and eye issue instead of seeing others
+7. Seeing others' game setting and **being a parrot**; also see the others' chair and table position, keyboard and mouse grips
+8. I decided to be myself with my situation and **eye issue** instead of seeing others
 9. After being myself, I realized that the CPU was not strong enough to become a pro player
 10. Leaned both lower and upper back on the chair and relaxed my body to the most comfortable position
-11. Starts hybrid aming; use both **wrist** and **arm** for bigger movements, perfect tracks and shots
+11. Starts **hybrid aming**; use both **wrist** and **arm** for bigger movements, perfect tracks and shots
 
 > [!NOTE]
 **Being a Pro**:
-12. Make my mouse grip in my best comfortable situation; not using death grip
+12. Make my mouse grip in my best comfortable situation; not using **death grip**
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
 16. Aim goes like a pro with **lowering the tension**
-17. Starts using **dynamic fingertip** grip, so there are three parts which I can explain this mixing grip:
-> A: Doing fingertip grip as a default, I mean there is a little space between mouse and palm
->> B: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're dynamic in positioning
+17. Starts using **dynamic fingertip grip**, so there are three parts which I can explain this mixing grip:
+> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm
+>> B: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
 >>> C: For fast movement and reaction, slightly pushing my fingers down (against the mouse's wall). **NOTE**: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
-20. Congratulations, Examid is now going to be a Pro Player at mouse and keyboard
+20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
 
@@ -57,7 +57,7 @@
 11. Controlling the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim
 12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
 13. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks** with right stick and just strafing to shoot. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
-14. Congratulations, Examid is now going to be a Pro Player with controller
+14. Congratulations, Examid is now going to be a Pro Player at controller
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
