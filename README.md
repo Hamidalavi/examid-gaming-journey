@@ -67,9 +67,9 @@
 > [!TIP]
 **PC Hardwares**
 0. Bought a normal laptop in **1nov 2015** with **1 core and 2 threads CPU**, then **1GB graphic drive**
-1. Upgraded the **Hard Disk Drive (HDD)** to **Solid State Drive (SSD)**. To do that, we removed the DVD writer hardware
+1. Upgraded the **Hard Disk Drive (HDD)** to **Solid State Drive (SSD)**. To do that, we removed the DVD writer hardware from laptop
 2. Bought a Gaming PC in **11jan 2022** with **Sharkoon TG4** case (see pc-specs repository to see full information)
-3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-i7 14700K**. We assembled the GPU, CPU, PSU, RAM and CPU cooler by ourselves
+3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-i7 14700K**. Because after buying a **Logitech G Pro X Superlight Wireless 100-25600 DPI** gaming mouse, due to the high polling rate, the processor did not have enough power to process programs and games, and I had to set the polling rate lower. Then we assembled the GPU, CPU, PSU, RAM and CPU cooler by ourselves
 4. My bad, the current motherboard **ASUS ROG B550-F Gaming WIFI** didn't support that CPU. I had to chnage it to **ASUS PRIME Z790-P WIFI**
 5. Another bad luck is the current Read Access Memory (RAM) which is **Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16** didn't support at **ASUS PRIME Z790-P WIFI** motherboard. So, I bought **G.Skill Trident Z5 RGB 2x16GB 6000MHz CL36** instead. Because its type is a DDR5 and it supports the D5 motherboard socket
 6. I decided to upgrade my CPU cooler from **Thermaltake 1x Fan | Liquid** to **DeepCool LS720 Black**. This cooler doing great and reduced the temperature more than 2x time (75°c to 30°c)
