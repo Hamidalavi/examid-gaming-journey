@@ -27,8 +27,8 @@
 16. Aim goes like a pro with **lowering the tension**
 17. Starts using **dynamic fingertip grip**, so there are three parts which I can explain this mixing grip:
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm
->> B: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
->>> C: For fast movement and reaction, slightly pushing my fingers down (against the mouse's wall). **NOTE**: do not always push your fingers down, push only in sensitive situations! Because it causes a hand fatigue and reducing the accuracy
+>> B: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning and touching the mouse by fingertip (first knuckle) for smoothness
+>>> C: For fast movement and reaction, slightly pushing my fingers down (against the mouse's wall)
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
