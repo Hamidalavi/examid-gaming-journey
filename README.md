@@ -26,7 +26,7 @@
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
 16. Aim goes like a pro with **lowering the tension**
 17. Starts using **dynamic fingertip grip**, so there are four parts which I can explain this mixing grip:
-> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm; the wrist is floating on the table
+> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm; the wrist is hovering over the table
 >> B: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
 >>> C: For fast movement and reaction, doing a tighter grip and pushing my fingers down (against the mouse's wall). Most of the gaming websites say: grip the mouse lightly. It's correct, but not for fast gameplays, they are just concerning about our health and fatigue. I literally got used to this situation very well
 >>>> D: Finally, touching the mouse by fingertip (first knuckle) for smoothness and its benefits
