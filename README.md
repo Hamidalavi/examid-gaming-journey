@@ -25,11 +25,11 @@
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
 16. Aim goes like a pro with **lowering the tension**
-17. Starts using **dynamic fingertip grip**, so there are four parts which I can explain this mixing grip:
-> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm; the wrist is hovering over the table
->> B: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
->>> C: For fast movement and reaction, **grip the mouse lightly** then **pushing my fingers down** (against the mouse's wall) and this pressure increases or decreases depending on the amount of aiming and flicking
->>>> D: Finally, touching the mouse by **fingertip** (first knuckle) for smoothness and its benefits
+17. Starts using **dynamic grip**, so there are four parts which I can explain this mixing grip:
+> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm; the wrist is hovering over the mouse
+>> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit
+>>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I move my fingers back until their shape becomes curl, now I push the lower part of the metacarpal towards the mouse a bit
+>>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
