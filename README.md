@@ -26,12 +26,12 @@
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
 16. Aim goes like a pro with **lowering the tension**
 17. Starts using **dynamic grip**, so there are four parts which I can explain this mixing grip:
-> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and palm; the wrist is hovering over the mouse
->> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit
->>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I move my fingers back until their shape becomes curl, now I push the lower part of the metacarpal towards the mouse a bit
+> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse (for web browsering, MOBA and RTS style games and in-game menus)
+>> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit (for all types of games with maximum stability and less movement)
+>>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I move my fingers back until their shape become curl, now I push the lower part of the metacarpal towards the mouse a bit (good choice for shooter style games with high agility or movement and less precision)
 >>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
+19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
