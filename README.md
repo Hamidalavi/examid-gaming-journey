@@ -25,13 +25,13 @@
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
 16. Aim goes like a pro with **lowering the tension**
-17. Starts using **dynamic grip**, so there are four parts which I can explain this mixing grip:
-> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse (for web browsering, MOBA and RTS style games and in-game menus)
->> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit (for all types of games with maximum stability and less movement)
->>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I move my fingers back until their shape become curl, now I push the lower part of the metacarpal towards the mouse a bit (good choice for shooter style games with high agility or movement and less precision)
->>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning
+17. Starts using **dynamic grip**, so there are four parts which I can explain this mixing grip and use all of them in different situations:
+> A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
+>> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
+>>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. This grip is **my choice** and it's suitable for balancing between high agility or movement and precision for shooter style games
+>>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning. I also **DON'T** push my wrist or palm into the mouse. At first glance, you think you're moving the mouse faster by applying pressure and pushing your palm and fingers down; but over time, your hand and wrist and even fingers get fatigue faster and there's also a lot of friction, which can even cause the mouse skates and feet to wear out much faster which in turn will **greatly reduce** your aiming accuracy
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
+19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players. There is no such thing as **flick sphot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
