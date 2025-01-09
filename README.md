@@ -31,7 +31,7 @@
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
 >>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning. I also just use my fingertips (the end of the finger, slightly above the nail) to control the mouse, then push my metacarpal (mostly head, sometimes base of palm) into mouse. It's all about gravity
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-19. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks**. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players. There is no such thing as **flick sphot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
+19. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
@@ -57,7 +57,7 @@
 10. **Pinky** and **ring** fingers are fully covered under the controller for best paddle clicking experience
 11. Controlling the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim
 12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-13. Finally, I was aiming like **I was in a hurry** and wanted always doing **fast flicks** with right stick and just strafing to shoot. But I was wrong. These two fators **reaction** and **smoothness** are very important. Then I tried hard to learn these factors and my aim became very fast and smooth like other pro players
+13. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the thumbstick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 14. Congratulations, Examid is now going to be a Pro Player at controller
 
 > [!CAUTION]
