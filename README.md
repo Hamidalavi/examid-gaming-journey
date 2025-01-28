@@ -24,7 +24,7 @@
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
-16. Aim goes like a pro by moving the mouse to the right (level with the pinky finger); so that the ring and pinky fingers are allowed to push the mouse from the side, then push thumb easily for more accuracy. In addition, the ring and pinky fingers rest flat on the edge of the mouse (top of the mouse), then I curl my ring and abit pinky fingers to cover the mouse from side in a perfect position and comfortable grip
+16. Aim goes like a pro with the ring and pinky fingers rest flat on the edge of the mouse (top of the mouse), then I curl my ring and abit pinky fingers to cover the mouse from side in a perfect position and comfortable grip
 17. Starts using **dynamic grip**, so there are four parts which I can explain this mixing grip and use all of them in different situations:
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
