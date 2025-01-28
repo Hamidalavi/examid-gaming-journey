@@ -32,7 +32,7 @@
 >>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning. I also just use my fingertips (the end of the finger, slightly above the nail) to control the mouse, then push my metacarpal (mostly head, sometimes base of palm) into mouse. It's all about gravity
 
 > [!IMPORTANT]
-**I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Whenever you play with the side buttons of the mouse, you can use palm and claw; If not, with the fingertip you can also play shooter games like a pro. Don't pay too much attention to what the coaches say and play with whichever grip you are most comfortable with**
+**I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Whenever you play with the side buttons of the mouse, you can use palm and claw; If not, with the fingertip you can also play shooter games like a pro. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
 
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 19. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
@@ -89,6 +89,11 @@
 10. Stress took over my whole body and I thought that the graphics card or the power supply had burned out. Then, I quickly installed **Windows 11 Pro** and told myself that maybe everything will be fine this time. It was unbelievable, but the problem was still persistent and the softwares and games were crashing alot
 11. I decided to shoot the last shot in the dark. I updated the BIOS of the motherboard from 1220 (2022) to 1663 (2024) without a UPS (emergency power). This operation took ten minutes in total, but it was the most stressful day of my life. Because if the electricity in the house was cut off during the update or the current was weak, the motherboard would break
 12. After this perilous journey, the crashing problems were finally solved. In addition, the security and performance of the computer increased greatly (frame increased by 50+ and audio became very clear). Even the appearance and UI of windows programs and settings changed and became similar to the Android/IOS version
+
+> [!WARNING]
+**I recommend never updating the system BIOS without an uninterruptible power supply (UPS). If the power goes out or the current is weak during the update, the motherboard will burn out and I will not take responsibility for it**
+
+13. Bought a **WLA-006 Ergo Four-Monitor Support Stand (Clamp Mode)** because I wanted the desk to be more clean. On the other hand, the monitor stand doesn't bother me. The main reason is that the monitor comes forward so that my eyes can see the screen more clearly
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
