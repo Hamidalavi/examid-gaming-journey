@@ -30,6 +30,10 @@
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
 >>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning. I also just use my fingertips (the end of the finger, slightly above the nail) to control the mouse, then push my metacarpal (mostly head, sometimes base of palm) into mouse. It's all about gravity
+
+> [!IMPORTANT]
+**I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Whenever you play with the side buttons of the mouse, you can use palm and claw; If not, with the fingertip you can also play shooter games like a pro. Don't pay too much attention to what the coaches say and play with whichever grip you are most comfortable with**
+
 18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 19. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
