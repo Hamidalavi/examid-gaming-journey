@@ -24,12 +24,11 @@
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
-16. Aim goes like a pro with the ring and pinky fingers rest flat on the edge of the mouse (top of the mouse), then I curl my ring and abit pinky fingers to cover the mouse from side in a perfect position and comfortable grip
-17. Starts using **dynamic grip**, so there are four parts which I can explain this mixing grip and use all of them in different situations:
+16. Aim goes like a pro with the ring and pinky fingers rest flat on the edge of the mouse (top of the mouse), then I curl my ring and pinky fingers until the fingertips touch the mouse pad. There is no friction in this situation. If the material of mouse pad is plastic, I place a fan in front of my hands to prevent my fingers from sweating and sticking to the mouse pad. Now there is no pressure on the mouse, the fingers are placed on the pad like touching a phone and just cover the mouse securely
+17. Starts using **dynamic grip**, so there are three parts which I can explain this mixing grip and use all of them in different situations:
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
->>>> D: My pinky, ring and thumb fingers are **NOT** only positioned nearly parallel to the mousepad, they're **dynamic** in positioning. I also just use my fingertips (the end of the finger, slightly above the nail) to control the mouse, then push my metacarpal (mostly head, sometimes base of palm) into mouse. It's all about gravity
 
 > [!IMPORTANT]
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Whenever you play with the side buttons of the mouse, you can use palm and claw; If not, with the fingertip you can also play shooter games like a pro. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
