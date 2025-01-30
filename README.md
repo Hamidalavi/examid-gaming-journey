@@ -24,17 +24,18 @@
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
-16. Aim goes like a pro with the ring and pinky fingers rest flat on the edge of the mouse (top of the mouse), then I curl my ring and pinky fingers until the fingertips touch the mouse pad. There is no friction in this situation. If the material of mouse pad is plastic, I place a fan in front of my hands to prevent my fingers from sweating and sticking to the mouse pad. Now there is no pressure on the mouse, the fingers are placed on the pad like touching a phone and just cover the mouse securely
-17. Starts using **dynamic grip**, so there are three parts which I can explain this mixing grip and use all of them in different situations:
+16. Starts using **dynamic grip**, so there are three parts which I can explain this mixing grip and use all of them in different situations:
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
+>>>> D: Rotating a wrist abit right (about 10°) to allowing the ring and pinky fingers fully cover the mouse in a way of **perfect horizontal aiming** instead of rotating the mouse and having a strange aim directions
 
 > [!IMPORTANT]
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Whenever you play with the side buttons of the mouse, you can use palm and claw; If not, with the fingertip you can also play shooter games like a pro. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
 
-18. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-19. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
+17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
+18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
+19. I'm now **focus on the enemies** instead of center dot, crosshair and environment
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
