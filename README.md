@@ -24,11 +24,11 @@
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
-16. Starts using **dynamic grip**, so there are three parts which I can explain this mixing grip and use all of them in different situations:
+16. Starts using **dynamic grip**, so there are three common grips which I can explain and also describe my mixing grip and I use all of them in different situations (mostly use my own grip):
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
->>>> D: Rotating a wrist abit right (about 10°) to allowing the ring and pinky fingers fully cover the mouse in a way of **perfect horizontal aiming** instead of rotating the mouse and having a strange aim directions
+>>>> D: My grip is rotating the wrist to the right (about 10°) to allowing the ring and pinky fingers fully cover the mouse in a way of **diagonal horizontal** and **very fast** aiming. It's abit confusing at the first time; but the thumb finger can click the side buttons very easily mow. Here the horizontal aiming is a bit skewed, but eventually the brain gets used to it. Now I **DON'T** need to put my whole hand on the mouse so that my thumb reaches the side buttons of the mouse, which would cause friction and ruin my aiming; rotate my wrist instead to having **calm and frictionless** aiming
 
 > [!IMPORTANT]
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Whenever you play with the side buttons of the mouse, you can use palm and claw; If not, with the fingertip you can also play shooter games like a pro. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
