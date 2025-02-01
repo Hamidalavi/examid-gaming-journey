@@ -38,7 +38,7 @@
 
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
-19. I'm now **focus on the enemies** instead of center dot, crosshair and environment
+19. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
