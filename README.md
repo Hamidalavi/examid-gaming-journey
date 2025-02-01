@@ -65,13 +65,13 @@
 11. Controlling the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim
 12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
 13. Depending on the direction of aiming and using back paddles of the controller, I use 360° of the thumb knuckle for controlling the thumbstick. Let me explain it:
-> A: When I want to aim upwards, I use the right side of my thumb to push up
+> A: When I want to aim upwards, I use the top-right side of my thumb to push up
 >> B: When I want to aim to the right, I use the thumb knuckle itself to push right
 >>> C: When I want to aim downwards, I use the left side of my thumb to push downwards
->>>> D: When I want to aim to the left, I use the top side of my thumb or sometimes thumb knuckle itself to push left
+>>>> D: When I want to aim to the left, I use both top side of my thumb and thumb knuckle itself to push left
 
 > [!IMPORTANT]
-**For the left thumb finger, I do the opposite of these movements. I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
+**For the left thumb finger, I do the opposite of these movements. These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
 14. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the thumbstick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 15. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
