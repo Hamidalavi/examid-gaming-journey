@@ -61,7 +61,7 @@
 7. Practice in very high sensitivity to make movement better and faster
 8. Bought a **controller freek** in one month later and my aim has improved alot
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
-10. Place the controller **on my fingers** to make it easier to access the buttons and joysticks
+10. Cover the controller with middle, ring and pinky fingers (the controller rests on the fingers and top of metacarpal ); then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. Controlling the thumbsticks with the first knuckle (exactly behind the nail), it's very accurate to aim
 12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
 13. Depending on the direction of aiming and using back paddles of the controller, I use 360° of the thumb knuckle and thumb muscle for controlling the thumbsticks
