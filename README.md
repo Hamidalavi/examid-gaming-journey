@@ -48,30 +48,26 @@
 
 > [!NOTE]
 **Start as a Noob**:
-0. Bought just a **PS5** controller (not console) in **11jan 2022**
-1. Using four fingers for handling games and always saw my hand and fingers. Two thumb fingers for the L/R sticks and front buttons, and the other two index fingers for L/R buttons and triggers
+0. Bought just a **PS5** controller (not console) in **11jan 2022**. Although 15 years ago we had Sega, Nintendo (NES), Game Boy, Atari and PS1 consoles
+1. Using four fingers for handling games and always saw my hand and fingers. Two thumb fingers for the L/R joysticks and front buttons, and the other two index fingers for L/R buttons and triggers
 2. I always paid attention to the controller instead of the game
 3. Though how to use **claw grip** with four fingers and got lots of controls. It was very difficult at first and I was like a cripple. Then practice this grip in **Far Cry 3** game exactly like my **KBM** journey
 4. Starts with six fingers and practice hard on this grip
 
 > [!NOTE]
 **Being a Pro**:
-5. Bought a **Nacon Revolution 5 Pro** controller with four back paddles
+5. Bought a **Nacon Revolution 5 Pro** controller with four back paddles in **24oct 2024**
 6. Using eight and sometimes all of my ten fingers for handling games. Yeah, it's very difficult and it feels impossible at first time
-7. Practice in very high sensitivity (20 in Call of Duty) to make movement better and faster
-8. Bought a **controller freek** and my aim has improved alot
-9. Since the **Nacon Revolution 5 Pro** has a magnetic sticks, I tried to set the dead zone to zero for precise aiming and tracking
-10. **Pinky** and **ring** fingers are fully covered under the controller for best paddle clicking experience
-11. Controlling the sticks with the first knuckle (exactly behind the nail), it's very accurate to aim
+7. Practice in very high sensitivity to make movement better and faster
+8. Bought a **controller freek** in one month later and my aim has improved alot
+9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
+10. Place the controller **on my fingers** to make it easier to access the buttons and joysticks
+11. Controlling the thumbsticks with the first knuckle (exactly behind the nail), it's very accurate to aim
 12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-13. Depending on the direction of aiming and using back paddles of the controller, I use 360° of the thumb knuckle for controlling the thumbstick. Let me explain it:
-> A: When I want to aim upwards, I use the top-right side of my thumb to push up
->> B: When I want to aim to the right, I use the thumb knuckle itself to push right
->>> C: When I want to aim downwards, I use the left side of my thumb to push downwards
->>>> D: When I want to aim to the left, I use both top side of my thumb and thumb knuckle itself to push left
+13. Depending on the direction of aiming and using back paddles of the controller, I use 360° of the thumb knuckle and thumb muscle for controlling the thumbsticks
 
 > [!IMPORTANT]
-**For the left thumb finger, I do the opposite of these movements. These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
+**These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
 14. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the thumbstick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 15. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
