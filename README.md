@@ -65,15 +65,15 @@
 8. Bought a **controller freek** in one month later and my aim has improved alot
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers (the controller rests on the fingers and top of metacarpal ); then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
-11. Controlling the joysticks with the first knuckle. For aiming, the buttom-right side of right joystick touches the thumb knuckle. For movement, the buttom-left side of left joystick touches the thumb knuckle. It's very accurate to aim
+11. Controlling the joysticks with the first knuckle. For aiming, the bottom-right side of right joystick touches the thumb knuckle. For movement, the bottom-left side of left joystick touches the thumb knuckle. It's very accurate to aim
 12. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-13. Depending on the direction of aiming and using back paddles of the controller, I use 360° of the thumb knuckle and thumb muscle for controlling the thumbsticks
+13. Depending on the direction of aiming and using back paddles of the controller, I use 360° of the thumb knuckle and thumb muscle for controlling the joysticks
 
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
 14. First aim at the target, then start strafing for a better accuracy
-15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the thumbstick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
+15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 16. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 17. Congratulations, Examid is now going to be a Pro Player at **controller**
 
