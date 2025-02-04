@@ -41,7 +41,7 @@
 
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
-19. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+19. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
@@ -76,7 +76,7 @@
 
 13. First aim at the target, then start strafing for a better accuracy
 14. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
-15. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+15. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 16. Congratulations, Examid is now going to be a Pro Player at **controller**
 
 ---
@@ -95,8 +95,12 @@
 **Being a Pro**:
 4. I practiced playing three fingers a lot; at first my index finger hurts and the knuckle was numb. But I felt very good about the pain and saw it as going to the gym
 5. After two weeks, the pain and numbness were gone; and I could **subconsciously and intuitively** play games with four or even six fingers. It was like an achievement that had been unlocked
-6. Playing **fast hand** games which makes the brain perform touches faster and more accurately
-7. Top of first knuckle and the right side of right thumb finger and the left side of left thumb finger touch the screen for more precision clicking and tracking
+6. I hold the phone on my fingers and top of metacarpal (instead of resting it on my palm) to give my fingers and thumb muscles more space to move and doing touch more comfortable
+7. Playing **fast hand** games which makes the brain perform touches faster and more accurately
+8. Top of first knuckle and the right side of right thumb finger and the left side of left thumb finger touch the screen for more precision, clicking and tracking
+9. I do a lot of strafing while aiming, because it makes me more accurate when shooting
+10. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the touch screen, the main thing is focusing on every phone pixel you want to do
+11. Congratulations, Examid is now going to be a Pro Player at **touch**
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
