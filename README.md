@@ -66,7 +66,10 @@
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers (the controller rests on the fingers and top of metacarpal ); then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (behind nail) and thumb muscle for controlling the joysticks
+12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (behind nail) and thumb muscle for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
+
+> [!WARNING]
+**Don't put all your fingers' knuckle behind the controller to click the back buttons of the controller comfortably. This will limit the thumb muscle's range of motion and significantly reduce your accuracy**
 
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
