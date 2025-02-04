@@ -79,6 +79,25 @@
 15. Now I'm **focusing on the enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 16. Congratulations, Examid is now going to be a Pro Player at **controller**
 
+---
+
+> [!TIP]
+**Touch**
+
+> [!NOTE]
+**Start as a Noob**:
+0. Bought a **Galaxy Note 3 Neo** in **23jul 2013**. It was my first touchscreen phone which I bought
+1. I've always loved games; so as usual, I installed a bunch of games on my phone before I could use any social apps
+2. I used one thumb in portrait mode and holding the phone with the other hand
+3. I was very casual, playing games in landscape mode with two thumb fingers in shooter style games. Others could be played with two fingers
+
+> [!NOTE]
+**Being a Pro**:
+4. I practiced playing three fingers a lot; at first my index finger hurts and the knuckle was numb. But I felt very good about the pain and saw it as going to the gym
+5. After two weeks, the pain and numbness were gone; and I could **subconsciously and intuitively** play games with four or even six fingers. It was like an achievement that had been unlocked
+6. Playing **fast hand** games which makes the brain perform touches faster and more accurately
+7. Top of first knuckle and the right side of right thumb finger and the left side of left thumb finger touch the screen for more precision clicking and tracking
+
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
 
