@@ -66,7 +66,7 @@
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers (the controller rests on the fingers and top of metacarpal ); then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (behind nail) and thumb muscle for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
+12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (behind nail) and thumb muscle itself for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
 
 > [!WARNING]
 **Don't put all your fingers' knuckle behind the controller to click the back buttons of the controller comfortably. This will limit the thumb muscle's range of motion and significantly reduce your accuracy**
@@ -88,16 +88,20 @@
 **Start as a Noob**:
 0. Bought a **Galaxy Note 3 Neo** in **23jul 2013**. It was my first touchscreen phone which I bought
 1. I've always loved games; so as usual, I installed a bunch of games on my phone before I could use any social apps
-2. I used one thumb in portrait mode and holding the phone with the other hand
-3. I was very casual, playing games in landscape mode with two thumb fingers in shooter style games. Others could be played with two fingers
+2. I used one finger for typing (thumb or index) in portrait mode and holding the phone with the other hand
+3. I was very casual, playing games in landscape mode with two thumb fingers in shooter style games. Others could be fine with two fingers
 
 > [!NOTE]
 **Being a Pro**:
 4. I practiced playing three fingers a lot; at first my index finger hurts and the knuckle was numb. But I felt very good about the pain and saw it as going to the gym
 5. After two weeks, the pain and numbness were gone; and I could **subconsciously and intuitively** play games with four or even six fingers. It was like an achievement that had been unlocked
-6. I hold the phone on my fingers and top of metacarpal (instead of resting it on my palm) to give my fingers and thumb muscles more space to move and doing touch more comfortable
+6. I hold the phone on my fingers and top of metacarpal (instead of resting it on my whole palm) to give my fingers and thumb muscles more space to move and doing touch more comfortable
 7. Playing **fast hand** games which makes the brain perform touches faster and more accurately
-8. Top of first knuckle and the right side of right thumb finger and the left side of left thumb finger touch the screen for more precision, clicking and tracking
+8. Top of first knuckle of each fingers touch the screen for more precision, clicking and tracking
+
+> [!IMPORTANT]
+**Fingertip touch position may change slightly as you pay attention to the game; so I don't recommend to overthink about mechanics and touching directions; just play and have fun with your phone**
+
 9. I do a lot of strafing while aiming, because it makes me more accurate when shooting
 10. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the touch screen, the main thing is focusing on every phone pixel you want to do
 11. Congratulations, Examid is now going to be a Pro Player at **touch**
