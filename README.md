@@ -42,7 +42,8 @@
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 19. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-20. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
+20. Finally, the brain optimized the hand and fingers' movements and now my entire focus is on the game
+21. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
 
@@ -77,7 +78,9 @@
 13. First aim at the target, then start strafing for a better accuracy. Applying pressure and tension on joystick for tracking enemies; so it works the opposite of mouse input with lighter tension
 14. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 15. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-16. Congratulations, Examid is now going to be a Pro Player at **controller**
+16. I considered two speed options for the right joystick. First I move my thumb at a highest speed, which is natural for high sensitivity setting. Second to track or flick shot enemies I take my thumb finger off the joystick and start moving it again, but this time move it slowly to get a more accurate aiming. It's kind of like resetting a mouse position
+17. Finally, the brain optimized the fingers' movements and positions and now my entire focus is on the game
+18. Congratulations, Examid is now going to be a Pro Player at **controller**
 
 ---
 
@@ -97,14 +100,15 @@
 5. After two weeks, the pain and numbness were gone; and I could **subconsciously and intuitively** play games with four or even six fingers. It was like an achievement that had been unlocked
 6. I hold the phone on my fingers and top of metacarpal (instead of resting it on my whole palm) to give my fingers and thumb muscles more space to move and doing touch more comfortable
 7. Playing **fast hand** games which makes the brain perform touches faster and more accurately
-8. Top of first knuckle of each fingers touch the screen for more precision, clicking and tracking
+8. Fingertip of each fingers touch the screen for more precision, clicking and tracking
 
 > [!IMPORTANT]
 **Fingertip touch position may change slightly as you pay attention to the game; so I don't recommend to overthink about mechanics and touching directions; just play and have fun with your phone**
 
 9. I do a lot of strafing while aiming, because it makes me more accurate when shooting
 10. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the touch screen, the main thing is focusing on every phone pixel you want to do
-11. Congratulations, Examid is now going to be a Pro Player at **touch**
+11. Finally, the brain **optimized** the fingers' movements and now my entire focus is on the game
+12. Congratulations, Examid is now going to be a Pro Player at **touch**
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
