@@ -67,7 +67,7 @@
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers (the controller rests on the fingers and top of metacarpal ); then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (behind nail) and thumb muscle itself for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
+12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (top edges of finger) and thumb muscle itself for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
 
 > [!WARNING]
 **Don't put all your fingers' knuckle behind the controller to click the back buttons of the controller comfortably. This will limit the thumb muscle's range of motion and significantly reduce your accuracy**
@@ -75,7 +75,7 @@
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
-13. First aim at the target, then start strafing for a better accuracy. Applying pressure and tension on joystick for tracking enemies; so it works the opposite of mouse input with lighter tension
+13. First aim at the target, then start strafing for a better accuracy. I assume **I have stick and move layout** and applying pressure or tension on joystick for tracking enemies (actually, it's a **default layout**); so it works the opposite of mouse input with lighter tension
 14. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 15. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 16. I considered two speed options for the right joystick. First I move my thumb at a highest speed, which is natural for high sensitivity setting. Second to track or flick shot enemies I take my thumb finger off the joystick and start moving it again, but this time move it slowly to get a more accurate aiming. It's kind of like resetting a mouse position
