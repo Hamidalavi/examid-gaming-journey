@@ -42,7 +42,7 @@
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 19. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-20. Finally, the brain optimized the hand and fingers' movements and now my entire focus is on the game
+20. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
 21. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
@@ -65,21 +65,18 @@
 7. Practice in very high sensitivity to make movement better and faster
 8. Bought a **controller freek** in one month later and my aim has improved alot
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
-10. Cover the controller with middle, ring and pinky fingers (the controller rests on the fingers and top of metacarpal ); then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
+10. Cover the controller with middle, ring and pinky fingers; then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Depending on the direction of aiming, movement and using back paddles of the controller, I use 360° of the thumb knuckle (top edges of finger) and thumb muscle itself for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
-
-> [!WARNING]
-**Don't put all your fingers' knuckle behind the controller to click the back buttons of the controller comfortably. This will limit the thumb muscle's range of motion and significantly reduce your accuracy**
+12. Depending on the direction of aiming and movement, I use 360° of the thumb knuckle (fingertip) and thumb muscle itself for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
 
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
-13. First aim at the target, then start strafing for a better accuracy. I assume **I have stick and move layout** and applying pressure or tension on joystick for tracking enemies (actually, it's a **default layout**); so it works the opposite of mouse input with lighter tension
-14. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
-15. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-16. I considered two speed options for the right joystick. First I move my thumb at a highest speed, which is natural for high sensitivity setting. Second to track or flick shot enemies I take my thumb finger off the joystick and start moving it again, but this time move it slowly to get a more accurate aiming. It's kind of like resetting a mouse position
-17. Finally, the brain optimized the fingers' movements and positions and now my entire focus is on the game
+13. Applying **one time** pressure or tension on joystick then just move it lightly **all time** for tracking enemies; so it works exactly like mouse input with lighter tension in glass pad
+14. Use strafing for a better accuracy
+15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
+16. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+17. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
 18. Congratulations, Examid is now going to be a Pro Player at **controller**
 
 ---
@@ -107,7 +104,7 @@
 
 9. I do a lot of strafing while aiming, because it makes me more accurate when shooting
 10. Now I'm **focusing on enemies** instead of center dot, crosshair and environment. I can play shooter games even without crosshair; it just indicates the middle of the touch screen, the main thing is focusing on every phone pixel you want to do
-11. Finally, the brain **optimized** the fingers' movements and now my entire focus is on the game
+11. Finally, the brain **optimized the fingers' movements** and now my entire focus is on the game
 12. Congratulations, Examid is now going to be a Pro Player at **touch**
 
 > [!CAUTION]
