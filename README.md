@@ -34,7 +34,7 @@
 **These frictions and restrictions that are created by pressure on the mouse are not felt on glass mouse pads or skypads, and it makes no difference where the fingers and hand are placed on the mouse. In any case, the mouse moves without friction**
 
 > [!WARNING]
-**The z-axis wrist rotation is based on the mouse rotate rate. For example, when I want to use Logitech G Pro Superlight Wireless mouse, I need to slightly rotate my wrist to the right for perfect horizontal aiming. You can test and draw lines in Microsoft Paint app. The x-axis wrist rotation is based on your posture and your armpits. You DON'T need to forcibly rotate the wrist and thumb muscle reach the mouse pad. Just enough so that the right hand area doesn't obstruct the mouse movement**
+**The z-axis wrist rotation is based on the mouse rotate rate. For example, when I want to use Logitech G Pro Superlight Wireless mouse, I need to slightly rotate my wrist to the right for perfect horizontal aiming. You can test and draw lines in Microsoft Paint app. The x-axis wrist rotation is based on your posture and your armpits. You DON'T need to forcibly rotate the wrist to thumb muscle reaches the mouse pad; to the extent that the right area of hand does not obstruct mouse movement (under the ring and pinky fingers)**
 
 > [!IMPORTANT]
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
