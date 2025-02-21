@@ -42,8 +42,9 @@
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 19. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-20. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
-21. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
+20. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+21. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
+22. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
 
@@ -76,8 +77,9 @@
 14. Use strafing for a better accuracy
 15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. I mean my aim is very fast and when I see the enemy while centering, I slow down my aiming by controlling the joystick, so I can get more accurate shots. There is no such thing as **flick shot**; in fact, switching on the target in a short time is what people call **flick** and it's achieve by training
 16. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-17. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
-18. Congratulations, Examid is now going to be a Pro Player at **controller**
+17. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+18. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
+19. Congratulations, Examid is now going to be a Pro Player at **controller**
 
 ---
 
@@ -104,8 +106,9 @@
 
 9. I do a lot of strafing while aiming, because it makes me more accurate when shooting
 10. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the touch screen, the main thing is focusing on every phone pixel you want to do
-11. Finally, the brain **optimized the fingers' movements** and now my entire focus is on the game
-12. Congratulations, Examid is now going to be a Pro Player at **touch**
+11. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+12. Finally, the brain **optimized the fingers' movements** and now my entire focus is on the game
+13. Congratulations, Examid is now going to be a Pro Player at **touch**
 
 > [!CAUTION]
 **This gaming journey belongs only to Examid and has nothing to do with other gamers. Everyone's journey is different according to their circumstances and situations**
