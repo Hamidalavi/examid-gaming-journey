@@ -135,6 +135,7 @@
 **I recommend never updating the system BIOS without an uninterruptible power supply (UPS). If the power goes out or the current is weak during the update, the motherboard will burn out and I will not take responsibility for it**
 
 13. Bought a **WLA-006 Ergo Four-Monitor Support Stand (Clamp Mode)** because I wanted the desk to be more clean. On the other hand, the monitor stand doesn't bother me. The main reason is that the monitor comes forward so that my eyes can see the screen more clearly
+14. Bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and when I play with the mouse, it feels like I'm playing hockey, because the surface of the pad is so frictionless. It's a next era of gaming experience
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
