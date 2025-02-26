@@ -28,7 +28,7 @@
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
->>>> D: My grip is normal fingertip grip in all types of games. **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger, so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
+>>>> D: My grip is normal fingertip grip in all types of games. **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger), so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
 
 > [!WARNING]
 **The mouse friction that are created by pressure on the mouse are also felt on glass mouse pads or skypads, but it's not noticeable; In any case, take care of tension management not only for less friction, do it for calm and precise shots**
