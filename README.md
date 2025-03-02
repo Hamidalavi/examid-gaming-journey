@@ -28,7 +28,7 @@
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
->>>> D: My grip is normal fingertip grip in all types of games. **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger), so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
+>>>> D: My grip is normal fingertip grip in all types of games with three fingers above and each finger is used for one of these three top buttons. **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger), so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
 
 > [!WARNING]
 **The mouse friction that are created by pressure on the mouse are also felt on glass mouse pads or skypads, but it's not noticeable; In any case, if the friction level is too high (specially in horizontal aiming), compensate for this friction by strafing for a long time; or have a rotating and circular aiming (which I don't recommend for competitive matches); then aim exactly opposite the left or right movement. BTW take care of mouse skate durability**p
@@ -37,7 +37,7 @@
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
 
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** since I bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and became a **full arm** man as a mouse and keyboard player; because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-18. These two fators **reaction** and **smoothness** are very important, this is done through tension management. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. For fast movements, higher tension is required; for flicking, tracking and switching enemies, lowering the tension or light pressure on the mouse is a perfect choice
+18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players
 19. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 20. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
 21. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
@@ -65,14 +65,14 @@
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers; then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Depending on the direction of aiming and movement, I use 360° of the thumb knuckle (fingertip) and thumb muscle itself for controlling the joysticks. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
+12. My thumbs' fingertip touch the top-right of left joystick and top-left (straight with thumb finger path). Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
 
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
 13. Compensate for joystick friction by strafing for a long time or have a rotating and circular aiming; then aim exactly opposite the left or right movement
 14. Use strafing for a better accuracy
-15. These two fators **reaction** and **smoothness** are very important, this is done through tension management. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players. For fast movements, higher tension is required; for flicking, tracking and switching enemies, lowering the tension or light pressure on joystick is a perfect choice
+15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
 16. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 17. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
 18. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
