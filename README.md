@@ -65,12 +65,12 @@
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers; then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. My thumbs' fingertip touch the top-right of left joystick and top-left (straight with thumb finger path). Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily. As a result, your action will be faster and more accurate**
+12. Compensate for joystick friction by **allowing the controller rests on the both middle fingers**. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily**. As a result, your action will be faster and more accurate
 
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
 
-13. Compensate for joystick friction by strafing for a long time or have a rotating and circular aiming; then aim exactly opposite the left or right movement
+13. Practice with high difficulty in some games to be a non-casual controller player
 14. Use strafing for a better accuracy
 15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
 16. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
