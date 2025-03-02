@@ -31,7 +31,7 @@
 >>>> D: My grip is normal fingertip grip in all types of games with three fingers above and each finger is used for one of these three top buttons. **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger), so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
 
 > [!WARNING]
-**The mouse friction that are created by pressure on the mouse are also felt on glass mouse pads or skypads, but it's not noticeable; In any case, if the friction level is too high (specially in horizontal aiming), compensate for this friction by strafing for a long time; or have a rotating and circular aiming (which I don't recommend for competitive matches); then aim exactly opposite the left or right movement. BTW take care of mouse skate durability**p
+**The mouse friction that are created by pressure on the mouse are also felt on glass mouse pads or skypads, but it's not noticeable; In any case, if the friction level is too high (specially in horizontal aiming), compensate for this friction by strafing for a long time; or have a rotating and circular aiming (which I don't recommend for competitive matches); then aim exactly opposite the left or right movement. BTW take care of mouse skate durability**
 
 > [!IMPORTANT]
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
