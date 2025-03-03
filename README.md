@@ -65,7 +65,7 @@
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers; then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Compensate for joystick friction by **allowing the controller rests on the both middle fingers**. Remember that **Hold the controller on your fingers to give your thumb muscle enough space to move easily**. As a result, your action will be faster and more accurate
+12. Compensate for joystick friction by **allowing the controller rests on the both middle fingers; then I apply pressure to the controller from both left and right sides to give my hand a good rest**. Remember that **hold the controller on your fingers to give your thumb muscle enough space to move easily**. As a result, your action will be faster and more accurate
 
 > [!IMPORTANT]
 **These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
