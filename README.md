@@ -64,13 +64,13 @@
 8. Bought a **controller freek** in one month later and my aim has improved alot
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
 10. Cover the controller with middle, ring and pinky fingers; then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
-11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Compensate for joystick friction by **allowing the controller rests on the both middle fingers; then I apply pressure to the controller from both left and right sides to give my hand a good rest**. Remember that **hold the controller on your fingers to give your thumb muscle enough space to move easily**. As a result, your action will be faster and more accurate
 
 > [!IMPORTANT]
-**These directions may change slightly as you pay attention to the game; so I don't recommend to overthink about these sticks and directions; just play and have fun with your controller**
+**Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and make playing easier. For this reason, my recommendation is you pay attention to the direction in which the controller is placed in your hand. I also don't recommend to overthink about the joysticks and controller direction; just play and have fun with your controller; just optimize your brain for this controller direction**
 
-13. Practice with high difficulty in some games to be a non-casual controller player
+11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
+12. Compensate for joystick friction by **clearing the dust and debris around the joysticks**
+13. Practice in high difficulty in some games to be a non-casual controller player
 14. Use strafing for a better accuracy
 15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
 16. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
