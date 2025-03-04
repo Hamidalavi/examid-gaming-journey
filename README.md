@@ -74,13 +74,14 @@
 > [!WARNING]
 **If you try to use the middle of the joystick to aim, you will encounter slight friction that will cause your aim to be distorted or you will feel like the controller is broken**
 
-13. Practice in high difficulty in some games to be a non-casual controller player
-14. Use strafing for a better accuracy
-15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
-16. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-17. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
-18. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
-19. Congratulations, Examid is now going to be a Pro Player at **controller**
+13. Now that I've figured out how to remove the friction between both joysticks, I can now aim with all the thumb joints. Before, it was just the fingertips. It's like the wrist (fingertip) and forearm (the rest of the thumb finger joints) in my **KBM** journey
+14. Practice in high difficulty in some games to be a non-casual controller player
+15. Use strafing for a better accuracy
+16. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
+17. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+18. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+19. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
+20. Congratulations, Examid is now going to be a Pro Player at **controller**
 
 ---
 
