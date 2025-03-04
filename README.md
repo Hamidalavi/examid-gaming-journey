@@ -69,7 +69,11 @@
 **Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and make playing easier. For this reason, my recommendation is you pay attention to the direction in which the controller is placed in your hand. I also don't recommend to overthink about the joysticks and controller direction; just play and have fun with your controller; just optimize your brain for this controller direction**
 
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Compensate for joystick friction by **clearing the dust and debris around the joysticks**
+12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**. I also put my both thumbs' fingertip on center of each joystick; but to aim, I just push the joysticks to the sides instead of the middle. **I just use the middle of joysticks for LS/RS buttons, not for aim**
+
+> [!WARNING]
+**If you try to use the middle of the joystick to aim, you will encounter slight friction that will cause your aim to be distorted or you will feel like the controller is broken**
+
 13. Practice in high difficulty in some games to be a non-casual controller player
 14. Use strafing for a better accuracy
 15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
