@@ -23,12 +23,12 @@
 12. Make my mouse grip in my best comfortable situation; not using **death grip**
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
-15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies
+15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies. I also tried hard to learn very fast micro movement aiming without resetting the mouse position. Because I used to always raise my hand after this fast aiming method and this would cause my hand to get tired
 16. Starts using **dynamic grip**, so there are three common grips which I can explain and also describe my mixing grip and I use all of them in different situations (mostly use my own grip):
 > A: Doing **fingertip grip** as a default, I mean there is a little space between mouse and wrist; the palm is hovering over the mouse. This grip is suitable for web browsering, MOBA and RTS style games and in-game menus
 >> B: Doing **palm grip**; from exactly where I hold the mouse with my fingers, I push the metacarpal head towards the mouse a bit. This grip is suitable for most of games with more stability and less movement with applied some frictions
 >>> C: Doing **claw grip**; from exactly where I hold the mouse with my fingers, I curl my fingers; now the lower part of the metacarpal touches the mouse a bit. It's suitable for balancing between high agility or movement and precision for shooter style games
->>>> D: My grip is normal fingertip grip in all types of games with three fingers above and each finger is used for one of these three top buttons. **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger), so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
+>>>> D: My grip is feliform-like fingertip grip in all types of games with three fingers above and each finger is used for one of these top three buttons which is similar to the cheetah's digitigrade feet (walking on toes). **Slightly rotating my wrist to the right around the z axis**, then move the mouse to the right side of hand (parallel to the pinky finger), so other fingers are allowed to hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**
 
 > [!WARNING]
 **The mouse friction that are created by pressure on the mouse are also felt on glass mouse pads or skypads, but it's not noticeable; In any case, if the friction level is too high (specially in horizontal aiming), compensate for this friction by strafing for a long time; or have a rotating and circular aiming (which I don't recommend for competitive matches); then aim exactly opposite the left or right movement. BTW take care of mouse skate durability**
@@ -36,7 +36,7 @@
 > [!IMPORTANT]
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
 
-17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** since I bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and became a **full arm** man as a mouse and keyboard player; because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
+17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** since I bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and became a **full arm**; because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players
 19. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 20. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
@@ -118,11 +118,11 @@
 ---
 
 > [!TIP]
-**PC Hardwares**
+**My Gaming Journey**
 0. Bought a normal laptop in **1nov 2015** with **1 core and 2 threads CPU**, then **1GB graphic drive**
 1. Upgraded the **Hard Disk Drive (HDD)** to **Solid State Drive (SSD)**. To do that, we removed the DVD writer hardware from laptop
-2. Bought a Gaming PC in **11jan 2022** with **Sharkoon TG4** case (see pc-specs repository to see full information)
-3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-i7 14700K**. Because after buying a **Logitech G Pro X Superlight Wireless 100-25600 DPI** gaming mouse, due to the high polling rate, the processor did not have enough power to process programs and games, and I had to set the polling rate lower. Then we assembled the GPU, CPU, PSU, RAM and CPU cooler by ourselves
+2. Bought a Gaming PC in **11jan 2022** with **Sharkose (see pc-specs repository to see full information)
+3. After two years, I decided to upgrade the CPU from **AMD Ryzen 5 5600X** to **Intel(TM) Core-i7 14700K**. Because after buying a **Logitech G Pro X Superlight Wireless 100-25600 DPI** gaming mouse, due to the high polling rate, the processor didn't have enough power to process programs and games, and I had to set the polling rate lower. Then we assembled the GPU, CPU, PSU, RAM and CPU cooler by ourselves
 4. My bad, the current motherboard **ASUS ROG B550-F Gaming WIFI** didn't support that CPU. I had to chnage it to **ASUS PRIME Z790-P WIFI**
 5. Another bad luck is the current Read Access Memory (RAM) which is **Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16** didn't support at **ASUS PRIME Z790-P WIFI** motherboard. So, I bought **G.Skill Trident Z5 RGB 2x16GB 6000MHz CL36** instead. Because its type is a DDR5 and it supports the D5 motherboard socket
 6. I decided to upgrade my CPU cooler from **Thermaltake 1x Fan | Liquid** to **DeepCool LS720 Black**. This cooler doing great and reduced the temperature more than 2x time (75°c to 30°c)
@@ -138,6 +138,7 @@
 
 13. Bought a **WLA-006 Ergo Four-Monitor Support Stand (Clamp Mode)** because I wanted the desk to be more clean. On the other hand, the monitor stand doesn't bother me. The main reason is that the monitor comes forward so that my eyes can see the screen more clearly
 14. Bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and when I play with the mouse, it feels like I'm playing hockey, because the surface of the pad is so frictionless. It's a next era of gaming experience
+15. Bought a **DIY Universal PTFE Dots** mouse skate, because the bottom of the mouse is not flat, it's easier to reset the mouse (even on the flattest surface) and my hand doesn't get tired
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
