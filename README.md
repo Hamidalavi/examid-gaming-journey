@@ -37,11 +37,11 @@
 **I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
 
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** since I bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and became a **full arm** player; because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
-18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players
-19. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-20. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
-21. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
-22. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
+18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players. Now I can click on objects or items without moving window in MMORPG games; I mean I have both **reactive** and **focused** clicks with these factors I mentioned above
+20. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+21. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+22. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
+23. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
 
