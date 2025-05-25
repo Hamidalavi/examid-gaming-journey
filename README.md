@@ -39,10 +39,11 @@
 17. I raised the height of the table (or I lowered the height of the seat), then I opened my **armpits** since I bought a **SkyPAD Wallhack SP-004 Glass Gaming Mousepad** and became a **full arm** player; because I didn't want to raise my shoulders anymore. As a result, I played with the best speed and freedom of action and less arm friction while aming
 18. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my aim became very fast and smooth like other pro players
 19. I could click on objects or items in most types of games, especially MMORPGs, without accidentally moving the game window by **rotating my wrist on the Y-axis while keeping the thumb muscle area close to the mouse pad**. I was able to perform both **reactive** and **focused** clicks without moving the mouse
-20. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-21. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
-22. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
-23. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
+20. While gaming on the keyboard, I kept my thumb muscle close to the base, maintaining a compact grip. This prevented my pinky from getting fatigued and smoothed out the tension line between my hand and pinky finger. At the same time, my fingers were positioned far enough forward to hit every key effortlessly (no need to lift my hand at all). That means I was rotating my wrist along the Y-axis to bring the thumb muscle closer to the keyboard. At times, it was even positioned near the mouse pad
+21. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+22. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+23. Finally, **the brain optimized the hand and fingers' movements** and now my entire focus is on the game
+24. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
 
