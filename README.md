@@ -18,6 +18,9 @@
 10. Leaned both lower and upper back on the chair and relaxed my body to the most comfortable position
 11. Starts **hybrid aming**; use both **wrist** and **arm** for bigger movements, perfect tracks and shots
 
+> [!WARNING]
+**Basic aiming starts from the wrist. The forearm is used only when necessary, as it moves unconsciously**
+
 > [!NOTE]
 **Being a Pro**:
 12. Make my mouse grip in my best comfortable situation; not using **death grip**
