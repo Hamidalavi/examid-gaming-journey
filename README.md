@@ -63,7 +63,7 @@
 9. Then I assumed that **moving the mouse to the right side and parallel to the pinky finger** for more speed and clicking the mouse side buttons easily. It was an interesting trick, but the logic behind it was still unclear to me: **very fast movement and fatigueless**
 10. Then I realized that **the pivot point should be the elbow, not the forearm or wrist**, because I became a full arm player: **extremely fast movement with more precision**
 11. After a year, I realized something: I never put my index and middle fingers on the mouse, and I only used them when clicking. **These two fingers can be very useful for accuracy and speed**, and I had been oblivious to it for all this time. Additionally, I didn't worry about wrist and forearm rotation in the y-axis anymore and the hand always moved in a straight direction: **extremely fast with significant improvement**
-12. Finally, in addition to the pinky, ring, and thumb fingers, the index and middle fingers also applied a little pressure to the mouse (pushing dowwn) with the lowest tension, which has an amazing effect and my speed became like that of The Flash movie. Now the unclear logic of number 9 is clear, because **all fingers go a little higher and can push down a bit**; now I can be fast and accurate with all grip styles and just have relax grip: **demon speed and supreme accuracy**
+12. Finally, in addition to the pinky, ring, and thumb fingers, the index and middle fingers also applied a little pressure to the mouse (pushing dowwn) with the lowest tension, which has an amazing effect and my speed became like that of The Flash movie. Now the unclear logic of number 9 is clear, because **all fingers go a little higher and can push down a bit**. Fingers are like soldiers on alert, always in their places, never leaving their posts; now I can be fast and accurate with all grip styles and just have relax grip: **demon speed and supreme accuracy**
 
 ---
 
@@ -91,14 +91,14 @@
 **Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and make playing easier. For this reason, my recommendation is you pay attention to the direction in which the controller is placed in your hand. I also don't recommend to overthink about the joysticks and controller direction; just play and have fun with your controller; just optimize your brain for this controller direction**
 
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**. I also put my both thumbs' fingertip on center of each joystick; but to aim, I just push the joysticks to the sides instead of the middle. **I just use the middle of joysticks for LS/RS buttons, not for aim**
+12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**. I also put my both thumbs' fingertip on center of each joystick**
 
 > [!WARNING]
-**If you try to use the middle of the joystick to aim, you will encounter slight friction that will cause your aim to be distorted or you will feel like the controller is broken**
+**If you try to push hardly to the middle of the joystick to aim, you will encounter slight friction that will cause your aim to be distorted or you will feel like the controller is broken, As I said about the mouse grip journey above (number 12), the fingers are like soldiers on alert, never leaving their posts; just put the fingers on buttons (or back paddles) and joystick with lowest tension**
 
-13. Now that I've figured out how to remove the friction between both joysticks, I can now aim with all the thumb joints. Before, it was just the fingertips. It's like the wrist (fingertip) and forearm (the rest of the thumb finger joints) in my **KBM** journey
+13. Now that I've figured out how to remove the friction between both joysticks, I can now also aim with all the thumb joints. Before, it was just the fingertips. It's like the wrist (fingertip) and forearm (the rest of the thumb finger joints) in my **KBM** journey
 14. Practice in high difficulty in some games to be a non-casual controller player
-15. Use strafing for a better accuracy
+15. Use strafing for a better accuracy and reducing the gun recoil. I also use strafing in other game types (adventure, action, mmo, role play and etc)
 16. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
 17. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 18. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
