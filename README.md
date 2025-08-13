@@ -30,10 +30,10 @@
 16. Starts using **dynamic grip**; my grip is **feliform-like fingertip** grip without curling my fingers, **so straighten the fingers for speedy reactions** in all types of games which is similar to the cheetah's digitigrade feet (walking on toes); then move the mouse to the right side of hand or parallel to the pinky finger (right offset mouse alignment); now the pinky and ring fingers touch or hold the mouse securely and also thumb finger can click the side buttons easily; **it's also makes horizontal aiming without skew or diagonal direction**. I also increased the grip height of my pinky and ring fingers so I could play fingertip style easier
 
 > [!IMPORTANT]
-**The pressure is only applied from the point and middle fingers (both knuckles), which makes my aiming significantly accurate and also prevents fingers and hand from fatigue**
+**In addition to pinky, ring and thumb fingers, the pressure is also applied from the point and middle fingers (both knuckles) with the lowest tension, which makes my aiming significantly accurate and also prevents fingers from fatigue and unnwanted wrist or hand rotation**
 
 > [!IMPORTANT]
-**I personally tested over 200 grips and came to the conclusion that there is no difference between these grips. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
+**I personally tested over 200 grips and came to the conclusion that there is no difference between these grips which I will tell you the full story below. Even with palm, you can be as comfortable, fast and smooth as claw and fingertip. Don't pay too much attention to what the ESports coaches say and play with whichever grip you are most comfortable with**
 
 > [!WARNING]
 **The mouse friction that are created by pressure on the mouse are also felt on glass mouse pads or skypads, but it's not noticeable; In any case, if the friction level is too high (specially in horizontal aiming), compensate for this friction by strafing for a long time; or have a rotating and circular aiming (which I don't recommend for competitive matches); then aim exactly opposite the left or right movement. BTW take care of mouse skate durability**
@@ -48,6 +48,34 @@
 24. Congratulations, Examid is now going to be a Pro Player at **mouse and keyboard**
 
 ---
+
+> [!TIP]
+**My Strange Mouse Grip Journey (Noob to Pro)**
+
+1. Grip the mouse tightly with maximum tension and my entire hand rests on the mouse; so there was a big gap between the wrist and mouse pad, then using the palm grip while the mouse was near the thumb muscle and my forearm on the air: **very slow movement**
+
+2. Tried to remove the gap between the wrist and mouse pad by rotating the wrist upwards. It was worked but still used palm grip and having a wrist injury: **very slow movement with wrist pain**
+
+3. Changed my mouse grip to claw; the lower palm rests on the mouse then curled my fingers and assumed that my aiming speed and accuracy will increase, but I was wrong, because I didn't know the logic behind this grip: **slow movement**
+
+4. I told myself that maybe if I put the metacarpal head on the mouse, the speed and accuracy of aiming would be faster. It got faster, but sometimes it got slower and this was not due to hand fatigue: **a bit fast movement but having a destructive grip**
+
+5. Then I said to myself, maybe if I rotate my wrist alongs the y-axis, the movement will be faster. It's only worked and being fast for less than five minutes, then my wrist and hand was fatigued quickly (like overclocking): **a bit fast movement in short time**
+
+6. Changed my grip to fingertip style and I said **I have a fastest movement**, but how it's happened? The short answer is **the hand and palm are not rest on the mouse anymore** and I felt light when aiming: **fast movement**
+
+7. I saw other YouTubers which move the mouse very fast, then I continued my research of aiming techniques. **I tried over 200 different grips** and none of them were logical or fair and I got bored quickly. Then I decided to press my pinky and ring fingers down instead of resting my palm on the mouse. This made the speed much better than before, but after two hours my hand was fatigue: **very fast with more fatigue**
+
+8. I was looking for a way to be very fast and fatigueless. Then I decided to rest my forearm and wrist on the table. This made the hand fatigue go away forever, but the speed of movement slowed down: **a bit fast movement and fatigueless**
+
+9. Then I assumed that **moving the mouse to the right side and parallel to the pinky finger** for more speed and clicking the mouse side buttons easily. It was an interesting trick, but the logic behind it was still unclear to me: **very fast movement and fatigueless**
+
+10. Then I realized that **the pivot point should be the elbow, not the forearm or wrist**, because I became a full arm player: **extremely fast movement with more precision**
+
+11. After a year, I realized something: I never put my index and middle fingers on the mouse, and I only used them when clicking. **These two fingers can be very useful for accuracy and speed**, and I had been oblivious to it for all this time. Additionally, I didn't worry about wrist and forearm rotation in the y-axis anymore and the hand always moved in a straight direction: **extremely fast with significant improvement**
+
+12. Finally, in addition to the pinky, ring, and thumb fingers, the index and middle fingers also applied a little pressure to the mouse (pushing dowwn) with the lowest tension, which has an amazing effect and my speed became like that of The Flash movie. Now the unclear logic of number 9 is clear, because **all fingers go a little higher and can push down a bit**; now I can be fast and accurate with all grip styles and just have relax grip: **demon speed and supreme accuracy**
+
 
 > [!TIP]
 **Controller**
