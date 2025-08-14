@@ -91,7 +91,7 @@
 **Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and playing easier**
 
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
-12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**. If you have a thumb muscle friction, you can rotate your wrist in the y-axis; in my case, middle fingers for top paddles and ring or pinky fingers for bottom paddle and it's not fully covered behind the controller because of my small fingers. I need to use the edge of paddles for giving more space to the thumb muscle to move the joystick more precisely
+12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**. If you have a thumb muscle friction, you can rotate your wrist in the y-axis; in my case, middle fingers for top paddles and ring or pinky fingers for bottom paddles and it's not fully covered behind the controller because of my small fingers. I need to use the edge of paddles for giving more space to the thumb muscle to move the joystick more precisely
 
 > [!WARNING]
 **If you try to push hardly to the middle of the joystick to aim, you will encounter slight friction that will cause your aim to be distorted or you will feel like the controller is broken, As I said about the mouse grip journey above (number 12), the fingers are like soldiers on alert, never leaving their posts; just put the fingers on buttons (or back paddles) and joystick with lowest tension**
