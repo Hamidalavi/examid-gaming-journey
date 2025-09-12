@@ -19,7 +19,7 @@
 11. Starts **hybrid aming**; use both **wrist** and **arm** for bigger movements, perfect tracks and shots
 
 > [!WARNING]
-**Basic aiming starts from the fingers and relaxing the wrist makes a smoother aim and  gripping the mouse straighly. So the forearm is   for the big movement and finally the elbow is for a pivot point. If you use your fingers, the wrist, forearm and elbow move unconsciously**
+**Basic aiming starts from the fingers. Relaxing the wrist makes a smoother aim and  gripping the mouse straighly. So the forearm is   for the big movement and finally the elbow is for being a pivot point. If you use your fingers, the wrist, forearm and elbow move unconsciously**
 
 > [!NOTE]
 **Being a Pro**:
@@ -27,7 +27,7 @@
 13. Decided to push and fully rest my arm and abit wrist instead of floating on air cuz of wrist and arm fatigue. It's happened after 2 years (like dinner seat posture)
 14. Ignoring the arm friction with an **arm sleeve**. Because the place of Examid lives is very hot and humid and the arm moves very hardly
 15. Pre-Lock enemies with **centering** and **not reseting** the mouse when focusing on enemies, then shoot them with **strafing** technique. I also tried hard to learn very fast micro movement aiming without resetting the mouse position. Because I used to always raise my hand after this fast aiming method and this would cause my hand to get tired
-16. Starts using **dynamic grip**; my grip is **feliform-like fingertip** grip with relaxed fingers in all types of games which is similar to the cheetah's digitigrade feet (walking on toes); then I keep the mouse clockwise rotation by lowering the tension of fingers and move the mouse in the horizontal side, then move to the mouse to the right side (mouse right side alignment); now the pinky and ring fingers touch or hold the mouse securely and also thumb finger can click the side buttons easily. My main aiming is with just my fingers and my forearm is automatically pull back for the left area aiming. Finally, I increased the grip height of my pinky and ring fingers to push the mouse down a bit and when I reached the enemy, I lowered my fingers' tension and just applied pressure to my index and middle fingers for smooth aiming
+16. Starts using **dynamic grip**; my grip is **feliform-like fingertip** grip with relaxed fingers in all types of games which is similar to the cheetah's digitigrade feet (walking on toes); then I keep the mouse clockwise rotation by lowering the tension of fingers and move the mouse in the horizontal side, then move to the mouse to the right side (mouse right side alignment); now the pinky and ring fingertips touch or hold the mouse securely and also thumb finger can click the side buttons easily. My main aiming is with just my fingers and my forearm is automatically pull back for the left area aiming. Finally, I increased the grip height of my pinky and ring fingers to push the mouse down a bit (e.g. as much as I'm clicking the mouse). I also applied pressure to my thumb, index and middle fingers for smooth aiming
 
 > [!IMPORTANT]
 **In addition to pinky, ring and thumb fingers, the pressure is also applied from the point and middle fingers (both knuckles) with the lowest tension, which makes my aiming significantly accurate and also prevents fingers from fatigue and unnwanted wrist or hand rotation**
