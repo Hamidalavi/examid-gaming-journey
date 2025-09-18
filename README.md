@@ -99,10 +99,10 @@
 > [!WARNING]
 **If you try to push hardly to the middle of the joystick to aim, you will encounter slight friction that will cause your aim to be distorted or you will feel like the controller is broken, As I said about the mouse grip journey above (number 12), the fingers are like soldiers on alert, never leaving their posts; just put the fingers on buttons (or back paddles) and joystick with lowest tension**
 
-13. Now that I've figured out how to remove the friction between both joysticks, I can now also aim with all the thumb joints. Before, it was just the fingertips. It's like the wrist (fingertip) and forearm (the rest of the thumb finger joints) in my **KBM** journey
+13. After lots of research, I finally figured out how to use thumbsticks for movement and aim. Just like the **KBM** journey, I tested over 200 grips and got nowhere. A very simple way is to **place the middle of the thumb tip in the middle of the analog stick, that's it**. No more wrist rotation is needed; also no more distance between the hand and the controller is needed, just use the thumb tip to control the player or do aiming in fps style games
 14. Practice in high difficulty in some games to be a non-casual controller player
 15. Use strafing for a better accuracy and reducing the gun recoil. I also use strafing in other game types (adventure, action, mmo, role play and etc)
-16. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro players
+16. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro player
 17. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
 18. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
 19. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
