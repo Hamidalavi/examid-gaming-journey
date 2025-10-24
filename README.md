@@ -7,7 +7,7 @@
 **Start as a Noob**:
 0. Start with laptop in **2021**
 1. Holding the **wrist** and **arm** in fixed place and rest fingers far from **WASD** and top numbers on keyboard to click **Shift** and **Ctrl** easily, but it's a wrong habit
-2. Using **W** with just a point finger then **ASD** with thumb finger
+2. Using **W** with just a point finger then **ASD** and other keys with thumb finger. I also just used mouse for aiming for 3D games and didn't learned the **strafing** technique for perfect game functionality
 3. Frames, ping, packet loss and response time didn't matter and was a casual player
 4. Though how to use **WASD** with three fingers and got lots of keyboard controls. In the beginning it was very difficult and I was like a cripple. After one week (playing **Far Cry 3**), it has become my true habit. Because I wanted to start **Live Stream**
 5. Bought a Gaming PC in **11jan 2022**
