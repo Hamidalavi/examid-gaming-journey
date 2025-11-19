@@ -91,24 +91,25 @@ For the mouse correct rotating position, the left side of the mouse is slightly 
 7. Practice in very high sensitivity to make movement better and faster
 8. Bought a **controller freek** in one month later and my aim has improved alot
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
-10. Cover the controller with middle, ring and pinky fingers; then use the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons
-
-> [!IMPORTANT]
-**Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and playing easier**
-
+10. I covered the controller with middle, ring and pinky fingers, that's OK; but I used the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons. **This was a bad move and caused all my fingers and wrist to hurt badly for a while**. Also, the pivot point was no longer in the middle, I had to touch the top-right part of the joystick to aim or top-left for movement and can't click RS/LS easily
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
 12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**
 
 > [!WARNING]
 **If you give your thumb muscle lots of tension, you will encounter a terrible friction that will cause your aim to be distorted or you will feel like the controller is broken; so just have a relaxed thumb muscle, then apply the pressure to thumbsticks to do a very smooth movement and aiming. Let your brain understands the difference between tension and pressure on thumbsticks**. I mean if the amount of pressure on the thumbsticks is increased, it doesn't ruin your aiming, but the higher tension does (tight fingers' muscles, especially the thumb muscle)**
 
-13. Practice in high difficulty in some games to be a non-casual controller player
-14. Use strafing for a better accuracy and reducing the gun recoil. I also use strafing in other game types (adventure, action, mmo, role play and etc)
-15. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro player
-16. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
-17. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
-18. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
-19. Congratulations, Examid is now going to be a Pro Player at **controller**
+13. Practiced in high difficulty in some games to be a non-casual controller player
+14. I do strafing for a better accuracy and reducing the gun recoil and even dodging the bulles. I also use strafing in other game types (adventure, action, mmo, role play and etc)
+15. After two years, **I decided to grip the controller on principles** and hold the controller in such a way that the tips of the thumbs are close to the middle of the joystick and the muscles of the thumbs are close to the handle of the controller with a natural posture and relaxed fingers. In this situation, the wrists and fingers never get tired. With this move, my major weakness of number 10 was eliminated forever and my aiming became always fast and accurate. Although I still have to practice, I try to get better every day
+
+> [!IMPORTANT]
+**Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and playing games easier**
+
+16. These two fators **reaction** and **smoothness** are very important. I tried hard to learn these factors and my joystick aim became very fast and smooth like other pro player
+17. Now I'm **focusing on enemies** instead of center dot, crosshair, environment and movements in any pov (hipfire, ADS, strafe, leaning, mounting a gun, tac stance and etc). I can play shooter games even without crosshair; it just indicates the middle of the monitor, the main thing is focusing on every pixel you want to do
+18. Blinking is like changing the magazine of a gun. My eyes are always open when I focus on the enemy. When I'm done, I relieve eye fatigue with a wink
+19. Finally, **the brain optimized the fingers' movements and positions** and now my entire focus is on the game
+20. Congratulations, Examid is now going to be a Pro Player at **controller**
 
 ---
 
