@@ -91,7 +91,7 @@ For the mouse correct rotating position, the left side of the mouse is slightly 
 7. Practice in very high sensitivity to make movement better and faster
 8. Bought a **controller freek** in one month later and my aim has improved alot
 9. Since the **Nacon Revolution 5 Pro** has a magnetic joysticks, I tried to set the dead zone to zero for precise aiming and tracking in shooter style games. In other style games I use the default settings
-10. I covered the controller with middle, ring and pinky fingers, that's OK; but I used the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons. **This was a bad move and caused all my fingers and wrist to hurt badly for a while**. Also, the pivot point was no longer in the middle, I had to touch the top-right part of the joystick to aim or top-left for movement and can't click RS/LS easily
+10. I covered the controller with middle, ring and pinky fingers, that's OK; so I used the middle knuckle of index finger for pressing R1/L1 buttons, and top knuckle of index finger for pressing R2/L2 buttons. Also, but I didn't know the pivot point was no longer in the middle and can be in anywhere and still searching for better grip to solve this problem
 11. When using ten fingers, I kept my index and middle fingers up to prevent clicking the triggers, but I prefer to using eight fingers
 12. Compensate for analog sticks' friction by **clearing the dust and debris around the joysticks**
 
@@ -100,7 +100,7 @@ For the mouse correct rotating position, the left side of the mouse is slightly 
 
 13. Practiced in high difficulty in some games to be a non-casual controller player
 14. I do strafing for a better accuracy and reducing the gun recoil and even dodging the bulles. I also use strafing in other game types (adventure, action, mmo, role play and etc)
-15. After two years, **I decided to grip the controller on principles** and rest it on fingers knuckles then released the palm and thumb muscle (just like the wrist for KBM journey) for freedom of movement and aiming; the tips of the thumbs are also close to the middle of the joystick with a natural posture and relaxed fingers. Then **I used the tip of my thumbs to control the joysticks** instead of just using my thumb muscles, so the wrists and fingers never get tired. With this move, my major weakness of number 10 was eliminated forever and my aiming became always fast and accurate. Although I still have to practice, I try to get better every day
+15. After two years, **I decided to grip the controller on principles**. In fact, it has nothing to do with the type of grip, I just press or move the joystick from the same side as my thumb. For example, if I hold the controller with all my fingers (to make it easier to click the backpaddles), my thumb is on the bottom-right, so I aim with the bottom-right part and move with the bottom-left part of the joystick. Then, wherever I touch the joystick, I use that same part of the muscle to aim and movement. **Of course, I do this with the last knuckle** instead of just using my thumb muscles. With this move, my major weakness of number 10 was eliminated forever and my aiming became always fast and accurate
 
 > [!IMPORTANT]
 **Hold the controller in your hand as if you were placing it on a table. This means that you can easily place the controller on your hand without straining, getting tired, or slipping. For professional controllers, you can use weights to make them fit more comfortably in your hand and playing games easier**
